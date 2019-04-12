@@ -1,18 +1,20 @@
 {
-    "name": "pxt-bitwear",
+    "name": "bitwear",
     "version": "0.0.0",
-    "description": "",
+    "description": "The BitWear extension for micro:bit",
+    "license": "MIT",
     "dependencies": {
         "core": "*",
-        "radio": "*"
+        "radio": "*",
+        "neopixel": "github:microsoft/pxt-neopixel#v0.6.10"
     },
     "files": [
         "README.md",
-        "main.ts"
+        "bitwear.ts"
     ],
     "testFiles": [
         "test.ts"
     ],
-    "public": false,
-    "additionalFilePaths": []
+    "public": true,
+    "installedVersion": "workspace:36e8afc6-ef4e-4b31-cb17-43929f83e132"
 }
