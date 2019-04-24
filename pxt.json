@@ -1,6 +1,6 @@
 {
     "name": "bitwear",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "The BitWear extension for micro:bit",
     "license": "MIT",
     "dependencies": {
