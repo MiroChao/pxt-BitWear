@@ -11,12 +11,11 @@
     "files": [
         "README.md",
         "bitwear.ts",
-        "_locales/zh/bitwear-strings.json",
-        "_locales/zh/bitwear-jsdoc-strings.json"
+        "_locales/zh/bitwear-strings.json"
     ],
     "testFiles": [
         "test.ts"
     ],
     "public": true,
-    "installedVersion": "workspace:36e8afc6-ef4e-4b31-cb17-43929f83e132"
+    "installedVersion": "workspace:ebd21cd6-224b-47e1-c5a8-e6404d5159d3"
 }
