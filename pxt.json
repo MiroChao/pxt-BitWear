@@ -10,7 +10,8 @@
     },
     "files": [
         "README.md",
-        "bitwear.ts"
+        "bitwear.ts",
+        "_locales/zh/bitwear-strings.json"
     ],
     "testFiles": [
         "test.ts"
