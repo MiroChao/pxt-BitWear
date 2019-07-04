@@ -1,6 +1,6 @@
 {
     "name": "bitwear",
-    "version": "0.0.3",
+    "version": "0.0.0",
     "description": "The BitWear extension for micro:bit",
     "license": "MIT",
     "dependencies": {
@@ -16,6 +16,5 @@
     "testFiles": [
         "test.ts"
     ],
-    "public": true,
-    "installedVersion": "workspace:ebd21cd6-224b-47e1-c5a8-e6404d5159d3"
+    "public": true
 }
