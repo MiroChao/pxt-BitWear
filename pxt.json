@@ -11,7 +11,8 @@
     "files": [
         "README.md",
         "bitwear.ts",
-        "_locales/zh/bitwear-strings.json"
+        "_locales/zh/bitwear-strings.json",
+        "_locales/zh/bitwear-jsdoc-strings.json"
     ],
     "testFiles": [
         "test.ts"

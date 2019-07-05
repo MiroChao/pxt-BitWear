@@ -1,5 +1,5 @@
 {
-  "BitWear.SetMotor|block": "振动 $on|",
+  "BitWear.SetMotor|block": "vibration $on|",
   "BitWear|block": "BitWear",
   "{id:category}BitWear": "BitWear"
 }
