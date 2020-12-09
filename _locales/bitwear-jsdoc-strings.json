@@ -1,4 +1,4 @@
 {
   "BitWear": "***************************************************************************\r\n| Description :\tBitWear extension for micro:bit\r\n| Developer   :   CH MAKER Ed\r\n| More Info   :\thttp://chmakered.com/\r\n****************************************************************************\r\nProvides access to BitWear blocks for micro: bit functionality.",
-  "BitWear.SetMotor": "打开或关闭振动马达"
+  "BitWear.SetMotor": "turn on of off the vibration motor"
 }
